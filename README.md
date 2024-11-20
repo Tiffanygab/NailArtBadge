@@ -37,7 +37,7 @@ Use the balances() function to check your current badge balance.
   - Ensure the amount you are adding or burning is greater than zero.
   - Only valid addresses are accepted for the badge addition.
 
-- **Troubleshooting**:  
+**Troubleshooting**:  
   - For insufficient balance errors when burning, ensure you have enough badges.  
   - Use Remix's debugger to troubleshoot any unexpected issues.
  
