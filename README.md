@@ -23,17 +23,17 @@ Deploy the contract using a test network or a local blockchain.
 
 #### Using the Contract  
 1. **Add Badges:**
--Call the addBadge() function with a recipient address and the number of badges to add. The amount must be greater than zero.
+Call the addBadge() function with a recipient address and the number of badges to add. The amount must be greater than zero.
 
 2. **Burn Badges:**
--Call the burnBadge() function with the number of badges you want to burn. You must have a sufficient balance.\
+Call the burnBadge() function with the number of badges you want to burn. You must have a sufficient balance.\
 
-4. **Check Balance:**  
--Use the balances() function to check your current badge balance.
+4. **Check Balance:**
+Use the balances() function to check your current badge balance.
 
 
 ## Help  
-- **Common Issues**:  
+**Common Issues**:  
   - Ensure the amount you are adding or burning is greater than zero.
   - Only valid addresses are accepted for the badge addition.
 
